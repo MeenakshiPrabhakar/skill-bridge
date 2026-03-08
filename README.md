@@ -111,7 +111,7 @@ Every AI call is wrapped in `aiHelper.js` which:
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 ```
 skill-bridge/
 ├── server/
@@ -121,12 +121,15 @@ skill-bridge/
 │   │   ├── profile.js        # CRUD: Create, Read, Update profiles
 │   │   ├── analyze.js        # Gap analysis endpoint
 │   │   ├── roadmap.js        # Learning roadmap generation
-│   │   └── interview.js      # Mock interview question generation
+│   │   ├── interview.js      # Mock interview question generation
+│   │   ├── github.js         # GitHub API import — scans repos for skills
+│   │   └── resume.js         # PDF resume upload + AI skill extraction
 │   ├── data/
 │   │   ├── job_descriptions.json   # 8 synthetic role definitions
-│   │   └── courses.json            # 18 real free/paid learning resources
+│   │   └── courses.json            # 18 learning resources (free + paid)
 │   ├── tests/
-│   │   └── analyze.test.js   # 10 Jest tests (happy path + edge cases)
+│   │   └── analyze.test.js   
+│   ├── .env.example
 │   └── package.json
 ├── client/
 │   ├── index.html
@@ -136,13 +139,14 @@ skill-bridge/
 │       ├── App.jsx            # Navigation + state
 │       ├── index.css          # Global styles (dark editorial theme)
 │       └── components/
-│           ├── ProfileSetup.jsx     # Step 1: Input + validation
-│           ├── GapAnalysis.jsx      # Step 2: Skills gap dashboard
+│           ├── ProfileSetup.jsx     # Step 1: Resume upload / GitHub import / manual entry
+│           ├── GapAnalysis.jsx      # Step 2: Skills gap dashboard + readiness score
 │           ├── LearningRoadmap.jsx  # Step 3: Phased learning plan
 │           └── MockInterview.jsx    # Step 4: Interview question bank
-├── .env.example
-├── .gitignore
-└── README.md
+├── README.md
+├── DESIGN.md
+└── .gitignore
+
 ```
 
 --- 
