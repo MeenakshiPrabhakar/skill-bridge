@@ -1,0 +1,90 @@
+[
+  {
+    "id": "jd-001",
+    "role": "Cloud Engineer",
+    "company": "ClourCorp Inc.",
+    "level": "Mid-Level",
+    "required_skills": ["AWS", "Terraform", "Kubernetes", "Docker", "Python", "Linux", "CI/CD", "Networking"],
+    "preferred_skills": ["GCP", "Azure", "Helm", "Prometheus", "Grafana", "Ansible"],
+    "certifications": ["AWS Solutions Architect", "CKA", "HashiCorp Terraform Associate"],
+    "description": "Design and manage cloud infrastructure. Work with DevOps teams to automate deployments.",
+    "salary_range": "$110,000 - $140,000"
+  },
+  {
+    "id": "jd-002",
+    "role": "Machine Learning Engineer",
+    "company": "Analytical AI",
+    "level": "Senior",
+    "required_skills": ["Python", "PyTorch", "TensorFlow", "MLOps", "SQL", "Docker", "Statistics", "Linear Algebra"],
+    "preferred_skills": ["Kubernetes", "Spark", "Scala", "LLM Fine-Tuning", "RAG", "Feature Stores"],
+    "certifications": ["TensorFlow Developer", "AWS ML Specialty", "Google Professional ML Engineer"],
+    "description": "Build and deploy ML models at scale. Collaborate with data scientists and engineers.",
+    "salary_range": "$130,000 - $175,000"
+  },
+  {
+    "id": "jd-003",
+    "role": "Full Stack Developer",
+    "company": "YC Startup",
+    "level": "Mid-Level",
+    "required_skills": ["React", "Node.js", "TypeScript", "PostgreSQL", "REST APIs", "Git", "CSS", "HTML"],
+    "preferred_skills": ["GraphQL", "Redis", "AWS", "Docker", "Next.js", "Prisma"],
+    "certifications": ["AWS Cloud Practitioner", "MongoDB Developer"],
+    "description": "Build end-to-end web applications. Own features from design to deployment.",
+    "salary_range": "$95,000 - $125,000"
+  },
+  {
+    "id": "jd-004",
+    "role": "Data Engineer",
+    "company": "Analytics Co",
+    "level": "Mid-Level",
+    "required_skills": ["Python", "SQL", "Apache Spark", "Airflow", "dbt", "ETL", "Data Warehousing", "Linux"],
+    "preferred_skills": ["Kafka", "Scala", "Snowflake", "BigQuery", "Redshift", "Terraform"],
+    "certifications": ["Google Professional Data Engineer", "dbt Analytics Engineering", "Databricks Associate"],
+    "description": "Design data pipelines and warehouse solutions. Enable analytics teams with clean, reliable data.",
+    "salary_range": "$100,000 - $135,000"
+  },
+  {
+    "id": "jd-005",
+    "role": "DevOps Engineer",
+    "company": "ScaleOps Ltd",
+    "level": "Mid-Level",
+    "required_skills": ["Linux", "CI/CD", "Docker", "Kubernetes", "Git", "Bash Scripting", "Monitoring", "Networking"],
+    "preferred_skills": ["Terraform", "Ansible", "Jenkins", "GitHub Actions", "ELK Stack", "Python"],
+    "certifications": ["CKA", "AWS DevOps Engineer Professional", "HashiCorp Vault Associate"],
+    "description": "Streamline software delivery pipelines. Improve reliability and scalability of infrastructure.",
+    "salary_range": "$105,000 - $145,000"
+  },
+  {
+    "id": "jd-006",
+    "role": "Backend Engineer",
+    "company": "FinTech Solutions",
+    "level": "Senior",
+    "required_skills": ["Java", "Spring Boot", "Microservices", "PostgreSQL", "Redis", "Docker", "REST APIs", "System Design"],
+    "preferred_skills": ["Kafka", "AWS", "Kubernetes", "gRPC", "OAuth", "MongoDB"],
+    "certifications": ["AWS Solutions Architect", "Oracle Java SE Programmer"],
+    "description": "Build high-performance backend services for financial applications. Focus on security and scalability.",
+    "salary_range": "$125,000 - $165,000"
+  },
+  {
+    "id": "jd-007",
+    "role": "AI/LLM Engineer",
+    "company": "NextGen AI Labs",
+    "level": "Mid-Level",
+    "required_skills": ["Python", "LLM APIs", "Prompt Engineering", "RAG", "Vector Databases", "FastAPI", "LangChain", "Git"],
+    "preferred_skills": ["Fine-Tuning", "RLHF", "Hugging Face", "Pinecone", "Weaviate", "Docker", "MLflow"],
+    "certifications": ["DeepLearning.AI Prompt Engineering", "Hugging Face NLP", "OpenAI API Certification"],
+    "description": "Build AI-powered products using LLMs. Design RAG systems and agentic workflows.",
+    "salary_range": "$120,000 - $160,000"
+  },
+  {
+    "id": "jd-008",
+    "role": "Cybersecurity Analyst",
+    "company": "SecureNet",
+    "level": "Mid-Level",
+    "required_skills": ["Network Security", "SIEM", "Incident Response", "Python", "Linux", "Threat Analysis", "Firewalls", "Vulnerability Assessment"],
+    "preferred_skills": ["Splunk", "CrowdStrike", "Penetration Testing", "Cloud Security", "SOAR", "Digital Forensics"],
+    "certifications": ["CompTIA Security+", "CEH", "CISSP", "OSCP"],
+    "description": "Protect organizational assets. Monitor, detect, and respond to security incidents.",
+    "salary_range": "$90,000 - $120,000"
+  }
+]

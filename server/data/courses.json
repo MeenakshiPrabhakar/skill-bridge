@@ -1,0 +1,200 @@
+[
+  {
+    "id": "c-001",
+    "title": "AWS Solutions Architect Associate",
+    "provider": "AWS Training",
+    "skill_tags": ["AWS", "Cloud", "Networking", "EC2", "S3", "RDS", "IAM"],
+    "type": "Certification",
+    "duration_hours": 40,
+    "cost": "paid",
+    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c-002",
+    "title": "Kubernetes for Absolute Beginners",
+    "provider": "KodeKloud",
+    "skill_tags": ["Kubernetes", "Docker", "Container Orchestration", "DevOps"],
+    "type": "Course",
+    "duration_hours": 8,
+    "cost": "free-trial",
+    "url": "https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners/",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "c-003",
+    "title": "HashiCorp Terraform Associate",
+    "provider": "HashiCorp",
+    "skill_tags": ["Terraform", "IaC", "Infrastructure as Code", "AWS", "Cloud"],
+    "type": "Certification",
+    "duration_hours": 20,
+    "cost": "paid",
+    "url": "https://developer.hashicorp.com/certifications/infrastructure-automation",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c-004",
+    "title": "PyTorch for Deep Learning Bootcamp",
+    "provider": "Zero to Mastery",
+    "skill_tags": ["PyTorch", "Python", "Deep Learning", "Neural Networks", "Machine Learning"],
+    "type": "Course",
+    "duration_hours": 45,
+    "cost": "paid",
+    "url": "https://zerotomastery.io/courses/pytorch-bootcamp/",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c-005",
+    "title": "Machine Learning Specialization",
+    "provider": "Coursera (Andrew Ng)",
+    "skill_tags": ["Machine Learning", "Python", "Statistics", "Supervised Learning", "Neural Networks"],
+    "type": "Specialization",
+    "duration_hours": 90,
+    "cost": "free-audit",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "c-006",
+    "title": "Full Stack Open",
+    "provider": "University of Helsinki",
+    "skill_tags": ["React", "Node.js", "REST APIs", "GraphQL", "TypeScript", "Testing"],
+    "type": "Course",
+    "duration_hours": 200,
+    "cost": "free",
+    "url": "https://fullstackopen.com/",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c-007",
+    "title": "SQL for Data Science",
+    "provider": "Coursera (UC Davis)",
+    "skill_tags": ["SQL", "Data Analysis", "Database", "PostgreSQL"],
+    "type": "Course",
+    "duration_hours": 20,
+    "cost": "free-audit",
+    "url": "https://www.coursera.org/learn/sql-for-data-science",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "c-008",
+    "title": "Apache Kafka for Beginners",
+    "provider": "Conduktor",
+    "skill_tags": ["Kafka", "Streaming", "Data Engineering", "Event-Driven"],
+    "type": "Course",
+    "duration_hours": 12,
+    "cost": "free",
+    "url": "https://conduktor.io/apache-kafka-for-beginners",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "c-009",
+    "title": "LangChain & Vector Databases",
+    "provider": "DeepLearning.AI",
+    "skill_tags": ["LangChain", "LLM APIs", "RAG", "Vector Databases", "Python", "AI"],
+    "type": "Course",
+    "duration_hours": 6,
+    "cost": "free",
+    "url": "https://www.deeplearning.ai/short-courses/",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c-010",
+    "title": "Docker Mastery",
+    "provider": "Udemy (Bret Fisher)",
+    "skill_tags": ["Docker", "Containers", "DevOps", "CI/CD"],
+    "type": "Course",
+    "duration_hours": 19,
+    "cost": "paid",
+    "url": "https://www.udemy.com/course/docker-mastery/",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "c-011",
+    "title": "CompTIA Security+",
+    "provider": "CompTIA",
+    "skill_tags": ["Network Security", "Cybersecurity", "Threat Analysis", "Cryptography", "Firewalls"],
+    "type": "Certification",
+    "duration_hours": 50,
+    "cost": "paid",
+    "url": "https://www.comptia.org/certifications/security",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c-012",
+    "title": "dbt Analytics Engineering",
+    "provider": "dbt Labs",
+    "skill_tags": ["dbt", "SQL", "Data Warehousing", "Analytics Engineering", "Data Engineering"],
+    "type": "Certification",
+    "duration_hours": 15,
+    "cost": "free",
+    "url": "https://www.getdbt.com/certifications/analytics-engineer-certification",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c-013",
+    "title": "The Odin Project (Full Stack)",
+    "provider": "The Odin Project",
+    "skill_tags": ["HTML", "CSS", "JavaScript", "React", "Node.js", "PostgreSQL", "Git"],
+    "type": "Curriculum",
+    "duration_hours": 500,
+    "cost": "free",
+    "url": "https://www.theodinproject.com/",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "c-014",
+    "title": "System Design Interview Course",
+    "provider": "ByteByteGo (Alex Xu)",
+    "skill_tags": ["System Design", "Microservices", "Distributed Systems", "Scalability"],
+    "type": "Course",
+    "duration_hours": 30,
+    "cost": "paid",
+    "url": "https://bytebytego.com/",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "c-015",
+    "title": "Google Professional Data Engineer",
+    "provider": "Google Cloud",
+    "skill_tags": ["BigQuery", "Data Engineering", "GCP", "Apache Beam", "Dataflow", "SQL"],
+    "type": "Certification",
+    "duration_hours": 60,
+    "cost": "paid",
+    "url": "https://cloud.google.com/certification/data-engineer",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "c-016",
+    "title": "Python for Everybody Specialization",
+    "provider": "Coursera (UMich)",
+    "skill_tags": ["Python", "Programming Fundamentals", "Data Structures", "Web Scraping"],
+    "type": "Specialization",
+    "duration_hours": 80,
+    "cost": "free-audit",
+    "url": "https://www.coursera.org/specializations/python",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "c-017",
+    "title": "Linux Foundation: LFS101x",
+    "provider": "edX (Linux Foundation)",
+    "skill_tags": ["Linux", "Bash Scripting", "Command Line", "System Administration"],
+    "type": "Course",
+    "duration_hours": 40,
+    "cost": "free-audit",
+    "url": "https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "c-018",
+    "title": "Prompt Engineering for Developers",
+    "provider": "DeepLearning.AI + OpenAI",
+    "skill_tags": ["Prompt Engineering", "LLM APIs", "AI", "Python"],
+    "type": "Course",
+    "duration_hours": 4,
+    "cost": "free",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "difficulty": "Beginner"
+  }
+]
