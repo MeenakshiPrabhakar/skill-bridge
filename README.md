@@ -1,4 +1,5 @@
-### Candidate Name: Meenakshi Prabhakar
+# Candidate Name: Meenakshi Prabhakar
+# Video Link: https://youtu.be/TL5p6rp3Z6s
 ## Scenario Chosen: Scenario 2: Skill-Bridge Career Navigator
 ## Estimated Time Spent: 5.5 hrs
 
