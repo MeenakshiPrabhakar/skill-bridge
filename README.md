@@ -34,7 +34,7 @@ npm run dev                 # runs on http://localhost:5173
 
 ```bash
 cd server
-npm test        # runs all 23 tests (works without an API key)
+npm test      
 ```
 
 ---
